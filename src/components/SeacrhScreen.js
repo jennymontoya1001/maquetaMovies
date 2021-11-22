@@ -17,12 +17,7 @@ export const SeacrhScreen = () => {
                             name="searchText"
                             autoComplete="off"
                         />
-                        <button
-                            type="submit"
-                            className="btn m-1 btn-block btn-outline-primary"
-                        >
-                            Search...
-                        </button>
+                     
                     </form>
                 </div>
                 <div className="col-7">
